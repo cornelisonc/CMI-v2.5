@@ -10,13 +10,13 @@
                 <ul>
                     <li><a href="colored-iphone.php">Colored iPhone</a></li>
                     <li><a href="iphone-colors.php">iPhone Colors</a></li>
-                    <li><a href="#">iPhone Screen Repair</a></li>
-                    <li><a href="#">iPhone 5 Color Swap</a></li>
+                    <li><a href="iphone-screen-repair.php">iPhone Screen Repair</a></li>
+                    <li><a href="store.php">iPhone 5 Color Swap</a></li>
                 </ul>
             </div>
             <div class="col-6">
                 <ul>
-                    <li><a href="#">Pink iPhone</a></li>
+                    <li><a href="pink-iphone.php">Pink iPhone</a></li>
                     <li><a href="#">Change iPhone Color</a></li>
                     <li><a href="#">iPhone 4 Color Swap</a></li>
                 </ul>
