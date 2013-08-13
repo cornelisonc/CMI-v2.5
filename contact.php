@@ -4,8 +4,14 @@ include "header.php";
 
 <div class="container">
 
-	<!-- Three columns of text below the carousel -->
 	<div class="row">
+
+		<div class="col-lg-9">
+			
+			<!--  CONTENT GOES HERE  -->
+				
+		</div>
+
 
 		<?php
 			include "sidebar.php";
