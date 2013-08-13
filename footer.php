@@ -6,7 +6,7 @@
         	<a href="terms-of-use.php">Terms of Use</a> · 
         	<a href="#">Sitemap</a> · 
         	<a href="buy-wholesale.php">Buy Wholesale</a> · 
-        	<a href="#">Contact Us</a>
+        	<a href="contact.php">Contact Us</a>
         </p>
       </footer>
 
