@@ -22,8 +22,9 @@
                 </ul>
             </div>
         </div>
-        <div class="col-lg-5">
-            <p>Content here</p>
+        <div class="col-lg-5 pull-left">
+            <h5>Disclaimer</h5>
+            <p class="text-muted"><small>© 2012. Romine Enterprises, LLC. All rights reserved. COLOR-MY-I and logo are trademarks of Romine Enterprises, LLC. The iPhone color swap modification is not produced or installed by Apple, Inc. "Apple," "iPhone," and Apple logo are trademarks of Apple, Inc. This website is not affiliated with or endorsed by Apple, Inc. or any of its subsidiaries.</small></p>
         </div>
     </div>
 
