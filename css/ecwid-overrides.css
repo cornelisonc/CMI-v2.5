@@ -49,20 +49,24 @@
 @media (max-width: 550px) {
 	.ecwid-productBrowser-details-rightPanel {
 		float: left !important;
-		max-width: 400px !important;
+		max-width: 450px !important;
+	}
+
+	.ecwid-productBrowser-sharePanel-header {
+		width: 450px !important;
 	}
 	.ecwid-productBrowser-backgroundedPanel {
 		float: left !important;
 		clear: both !important;
 		width: 200% !important;
 		min-width: 0px !important;
-		max-width: 400px !important;
+		max-width: 450px !important;
 	}
 
 	.ecwid-productBrowser-details-leftPanel {
 		float: right;
 		clear: both;
-		max-width: 400 !important;
+		max-width: 450px !important;
 	}
 
 	.ecwid-productBrowser-details-rightPanel table {
@@ -89,14 +93,18 @@
 @media (max-width: 480px) {
 	.ecwid-productBrowser-details-rightPanel {
 		float: left !important;
-		max-width: 310px !important;
+		max-width: 340px !important;
 	}
 	.ecwid-productBrowser-backgroundedPanel {
 		float: left !important;
 		clear: both !important;
 		width: 200% !important;
 		min-width: 0px !important;
-		max-width: 310px !important;
+		max-width: 340px !important;
+	}
+
+	.ecwid-productBrowser-sharePanel-header {
+		width: 340px !important;
 	}
 
 	.ecwid-productBrowser-details-leftPanel {
