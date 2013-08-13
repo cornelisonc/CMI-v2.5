@@ -24,9 +24,9 @@
               <?php
 
                 $pages = array(
-                  'Home'    => 'index.php',
-                  'Store'   => 'store.php#!/~/product/category=0&id=9492999',
-                  'Contact' => 'contact.php'
+                  'Home'    => '',
+                  'Store'   => 'store#!/~/product/category=0&id=9492999',
+                  'Contact' => 'contact'
                 );
 
                 $this_page = basename($_SERVER['PHP_SELF']);
