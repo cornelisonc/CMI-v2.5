@@ -1583,7 +1583,7 @@ fieldset[disabled] .btn {
   box-shadow: none;
 }
 .btn-default {
-  color: #d7a200;
+  color: white;
   background-color: #d7a200;
   border-color: #cccccc;
 }
@@ -1591,7 +1591,7 @@ fieldset[disabled] .btn {
 .btn-default:focus,
 .btn-default:active,
 .btn-default.active {
-  color: #d7a200;
+  color: white;
   background-color: #ae8300;
   border-color: #adadad;
 }
@@ -1769,7 +1769,7 @@ fieldset[disabled] .btn-info.active {
   border-color: #46b8da;
 }
 .btn-link {
-  color: #d7a200;
+  color: white;
   font-weight: normal;
   cursor: pointer;
   border-radius: 0;
