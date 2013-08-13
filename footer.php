@@ -1,3 +1,4 @@
+    <hr>
     <div class="row">
         <div class="col-lg-2 text-center">
             <h5>Share</h5>
