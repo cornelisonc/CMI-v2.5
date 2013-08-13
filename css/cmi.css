@@ -397,7 +397,7 @@ hr {
   width: 100%;
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .sidebar {
+  .store .sidebar {
     display: none;
   }
   .container {
@@ -2527,7 +2527,7 @@ td.visible-print {
   margin-top: 50px;
 }
 @media (max-width: 768px) {
-  .sidebar {
+  .store .sidebar {
     display: none;
   }
   .nav-collapse-scrollable {

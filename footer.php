@@ -2,7 +2,7 @@
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p>© 2013 color-my-i.</p>
         <p class="text-center">
-        	<a href="#">Privacy Policy</a> · 
+        	<a href="privacy-policy.php">Privacy Policy</a> · 
         	<a href="#">Terms of Use</a> · 
         	<a href="#">Sitemap</a> · 
         	<a href="#">Buy Wholesale</a> · 

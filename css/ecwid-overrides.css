@@ -1,3 +1,13 @@
+.ecwid-productBrowser-details-rightPanel {
+	float: left !important;
+	padding-left: 0px !important;
+	padding-right: 20px !important;
+}
+
+.ecwid-minicart {
+	display: none !important;
+}
+
 .ecwid-productBrowser-head {
 	display: none;
 }

@@ -5,11 +5,7 @@ include "header.php";
 <div class="container">
 
 	<!-- Three columns of text below the carousel -->
-	<div class="row">
-
-		<?php
-			include "sidebar.php";
-		?>
+	<div class="row store">
 
 		<div class="col-lg-9">
 
@@ -18,6 +14,10 @@ include "header.php";
 			</div>
 			
 		</div>
+
+		<?php
+			include "sidebar.php";
+		?>
 
 	</div><!-- /.row -->
 
