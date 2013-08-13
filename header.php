@@ -25,7 +25,7 @@
 
                 $pages = array(
                   'Home'    => 'index.php',
-                  'Store'   => 'store.php',
+                  'Store'   => 'store.php#!/~/product/category=0&id=9492999',
                   'Contact' => 'contact.php'
                 );
 
