@@ -1,0 +1,25 @@
+.ecwid-productBrowser-head {
+	display: none;
+}
+
+.gwt-Image, html#ecwid_html body#ecwid_body img.gwt-Image {
+	height: 480px;
+	width: 448px;
+	max-width: 448px !important;
+}
+
+.ecwid-productBrowser-details-thumbnail {
+	height: 480px !important;
+}
+
+@media (max-width: 991px) {
+	.gwt-Image, html#ecwid_html body#ecwid_body img.gwt-Image, .ecwid-productBrowser-details-thumbnail {
+		max-width: none !important;
+		height: auto !important;
+	}
+
+	.ecwid-productBrowser-details-thumbnail {
+		max-width: none !important;
+		height: auto !important;
+	}
+}

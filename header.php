@@ -6,6 +6,7 @@
     <title>Color iPhone</title>
     <link href="css/cmi.css" rel="stylesheet">
     <link href="css/cmi-carousel.css" rel="stylesheet">
+    <link href="css/ecwid-overrides.css" rel="stylesheet">
   <body>
     <div class="navbar-wrapper">
       <div class="container">
