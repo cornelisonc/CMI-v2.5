@@ -12,6 +12,18 @@
 	height: 480px !important;
 }
 
+.ecwid-form {
+	background-color: white !important;
+}
+
+.ecwid-PaymentMethodsBlock {
+	display: none;
+}
+
+.ecwid-Checkout-EmailBlock .ecwid-Checkout-blockTitle {
+	display: none;
+}
+
 @media (max-width: 991px) {
 	.gwt-Image, html#ecwid_html body#ecwid_body img.gwt-Image, .ecwid-productBrowser-details-thumbnail {
 		max-width: none !important;
@@ -46,6 +58,22 @@
 	.ecwid-productBrowser-details-rightPanel table {
 		width: 400px !important;
 	}
+
+	.fb_iframe_widget {
+		max-width: 400px !important;
+	}
+
+	.ecwid-Checkout-PaymentRightPanel, .ecwid-form {
+		width: 400px !important;
+	}
+
+	label.ecwid-fieldLabel {
+		width: 300px !important;
+	}
+
+	.gwt-TextBox {
+		float: left !important;
+	}
 }
 
 @media (max-width: 480px) {
@@ -69,5 +97,18 @@
 
 	.ecwid-productBrowser-details-rightPanel table {
 		width: 310px !important;
+	}
+
+	.fb_iframe_widget {
+		max-width: 310px !important;
+	}
+
+	.ecwid-Checkout-BreadCrumbs-Horizontal {
+		display: none;
+	}
+
+	
+	label.ecwid-fieldLabel {
+		width: 300px !important;
 	}
 }
