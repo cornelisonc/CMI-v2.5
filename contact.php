@@ -34,7 +34,7 @@ include "header.php";
 
 
 		<?php
-			include "sidebar.php";
+			include "sidebar-contact.php";
 		?>
 
 	</div><!-- /.row -->
