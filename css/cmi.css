@@ -2694,6 +2694,46 @@ td.visible-print {
   border-top-color: #ffffff;
   border-bottom-color: #ffffff;
 }
+.sidebar {
+  padding:          10px;
+  text-shadow:      0 1px 0 #fff;
+  background-color: #f7f5fa;
+  border-radius:    5px;
+}
+
+/* All levels of nav */
+.sidebar > li > a {
+  display: block;
+  color: #716b7a;
+  padding: 5px 20px;
+}
+.sidebar > li > a:hover,
+.sidebar > li > a:focus {
+  text-decoration: none;
+  background-color: #e5e3e9;
+  border-right: 1px solid #dbd8e0;
+}
+.sidebar > .active > a,
+.sidebar > .active:hover > a,
+.sidebar > .active:focus > a {
+  font-weight: bold;
+  color: #563d7c;
+  background-color: transparent;
+  border-right: 1px solid #563d7c;
+}
+
+/* Nav: second level (shown on .active) */
+.sidebar .nav {
+  display: none; /* Hide by default, but at >768px, show it */
+  margin-bottom: 8px;
+}
+.sidebar .nav > li > a {
+  padding-top:    3px;
+  padding-bottom: 3px;
+  padding-left: 30px;
+  font-size: 90%;
+}
+
 @media screen and (min-width: 768px) {
   .navbar-brand {
     float: left;

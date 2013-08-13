@@ -42,7 +42,7 @@
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     </div><!-- /.carousel -->
 
-    <div class="container marketing">
+    <div class="container">
 
       <!-- Three columns of text below the carousel -->
       <div class="row">

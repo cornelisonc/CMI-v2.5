@@ -3,13 +3,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="">
     <meta name="description" content="Color iPhone, iPad or iPod . Repair or customize your iphone, iPad or iPod . Repair broken screen. Sell your iPhone, iPad or iPod.">
-
     <title>Color iPhone</title>
-
     <link href="css/cmi.css" rel="stylesheet">
-
     <link href="css/cmi-carousel.css" rel="stylesheet">
-  <style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
   <body>
     <div class="navbar-wrapper">
       <div class="container">
@@ -21,7 +17,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-            <a class="navbar-brand" href="#">Project name</a>
+            <a class="navbar-brand" href="#">color-my-i</a>
             <div class="nav-collapse collapse">
               <ul class="nav navbar-nav">
               <?php
