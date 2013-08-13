@@ -19,7 +19,7 @@
                 <ul>
                     <li><a href="pink-iphone">Pink iPhone</a></li>
                     <li><a href="change-iphone-color">Change iPhone Color</a></li>
-                    <li><a href="iphone-color-swap">iPhone 4 Color Swap</a></li>
+                    <li><a href="iphone-4-color-swap">iPhone 4 Color Swap</a></li>
                 </ul>
             </div>
         </div>
