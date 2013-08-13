@@ -17,8 +17,8 @@
             <div class="col-6">
                 <ul>
                     <li><a href="pink-iphone.php">Pink iPhone</a></li>
-                    <li><a href="#">Change iPhone Color</a></li>
-                    <li><a href="#">iPhone 4 Color Swap</a></li>
+                    <li><a href="change-iphone-color.php">Change iPhone Color</a></li>
+                    <li><a href="iphone-color-swap.php">iPhone 4 Color Swap</a></li>
                 </ul>
             </div>
         </div>
