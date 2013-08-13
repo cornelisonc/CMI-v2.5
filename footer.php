@@ -3,7 +3,7 @@
         <p>© 2013 color-my-i.</p>
         <p class="text-center">
         	<a href="privacy-policy.php">Privacy Policy</a> · 
-        	<a href="#">Terms of Use</a> · 
+        	<a href="terms-of-use.php">Terms of Use</a> · 
         	<a href="#">Sitemap</a> · 
         	<a href="#">Buy Wholesale</a> · 
         	<a href="#">Contact Us</a>
