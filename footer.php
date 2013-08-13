@@ -9,17 +9,17 @@
             <h5>Product List</h5>
             <div class="col-6">
                 <ul>
-                    <li><a href="colored-iphone.php">Colored iPhone</a></li>
-                    <li><a href="iphone-colors.php">iPhone Colors</a></li>
-                    <li><a href="iphone-screen-repair.php">iPhone Screen Repair</a></li>
-                    <li><a href="store.php">iPhone 5 Color Swap</a></li>
+                    <li><a href="colored-iphone">Colored iPhone</a></li>
+                    <li><a href="iphone-colors">iPhone Colors</a></li>
+                    <li><a href="iphone-screen-repair">iPhone Screen Repair</a></li>
+                    <li><a href="store">iPhone 5 Color Swap</a></li>
                 </ul>
             </div>
             <div class="col-6">
                 <ul>
-                    <li><a href="pink-iphone.php">Pink iPhone</a></li>
-                    <li><a href="change-iphone-color.php">Change iPhone Color</a></li>
-                    <li><a href="iphone-color-swap.php">iPhone 4 Color Swap</a></li>
+                    <li><a href="pink-iphone">Pink iPhone</a></li>
+                    <li><a href="change-iphone-color">Change iPhone Color</a></li>
+                    <li><a href="iphone-color-swap">iPhone 4 Color Swap</a></li>
                 </ul>
             </div>
         </div>
@@ -33,11 +33,11 @@
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p>© 2013 color-my-i.</p>
         <p class="text-center">
-        	<a href="privacy-policy.php">Privacy Policy</a> · 
-        	<a href="terms-of-use.php">Terms of Use</a> · 
+        	<a href="privacy-policy">Privacy Policy</a> · 
+        	<a href="terms-of-use">Terms of Use</a> · 
         	<a href="#">Sitemap</a> · 
-        	<a href="buy-wholesale.php">Buy Wholesale</a> · 
-        	<a href="contact.php">Contact Us</a>
+        	<a href="buy-wholesale">Buy Wholesale</a> · 
+        	<a href="contact">Contact Us</a>
         </p>
     </footer>
 
