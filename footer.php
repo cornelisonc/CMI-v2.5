@@ -12,7 +12,7 @@
                     <li><a href="colored-iphone">Colored iPhone</a></li>
                     <li><a href="iphone-colors">iPhone Colors</a></li>
                     <li><a href="iphone-screen-repair">iPhone Screen Repair</a></li>
-                    <li><a href="store">iPhone 5 Color Swap</a></li>
+                    <li><a href="store#!/~/product/category=0&id=9492999">iPhone 5 Color Swap</a></li>
                 </ul>
             </div>
             <div class="col-6">
