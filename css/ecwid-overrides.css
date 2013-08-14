@@ -114,11 +114,11 @@
 	}
 
 	.ecwid-productBrowser-details-rightPanel table {
-		width: 310px !important;
+		width: 340px !important;
 	}
 
 	.fb_iframe_widget {
-		max-width: 310px !important;
+		max-width: 340px !important;
 	}
 
 	.ecwid-Checkout-BreadCrumbs-Horizontal {
@@ -127,6 +127,55 @@
 
 	
 	label.ecwid-fieldLabel {
+		width: 340px !important;
+	}
+}
+
+@media (max-width: 480px) {
+	.ecwid-productBrowser-details-rightPanel {
+		float: left !important;
+		max-width: 300px !important;
+	}
+
+	.ecwid-productBrowser-sharePanel-header {
 		width: 300px !important;
+	}
+	.ecwid-productBrowser-backgroundedPanel {
+		float: left !important;
+		clear: both !important;
+		width: 200% !important;
+		min-width: 0px !important;
+		max-width: 300px !important;
+	}
+
+	.ecwid-productBrowser-details-leftPanel {
+		float: right;
+		clear: both;
+		max-width: 300px !important;
+	}
+
+	.ecwid-productBrowser-details-rightPanel table {
+		width: 300px !important;
+	}
+
+	.fb_iframe_widget {
+		max-width: 300px !important;
+	}
+
+	.ecwid-Checkout-PaymentRightPanel, .ecwid-form {
+		width: 300px !important;
+	}
+
+	label.ecwid-fieldLabel {
+		width: 300px !important;
+	}
+
+	.gwt-TextBox {
+		float: left !important;
+	}
+
+	.ecwid-productBrowser-details-openBagButton {
+		float: left;
+		margin-left: 100px;
 	}
 }
