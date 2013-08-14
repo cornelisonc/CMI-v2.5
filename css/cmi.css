@@ -2524,14 +2524,14 @@ td.visible-print {
   width: 100%;
   margin-top: 50px;
 }
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .nav-collapse-scrollable {
     margin-bottom: 15px;
     max-height: 360px;
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
   }
-}
+}*/
 .navbar-brand {
   display: block;
   max-width: 200px;
@@ -2734,40 +2734,37 @@ td.visible-print {
   padding-left: 30px;
   font-size: 90%;
 }
-
-@media screen and (min-width: 768px) {
-  .navbar-brand {
-    float: left;
-    margin-left: -15px;
-    margin-right: 5px;
-    max-width: none;
-  }
-  .navbar-nav {
-    float: left;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  .navbar-nav > li {
-    float: left;
-  }
-  .navbar-nav > li > a {
-    border-radius: 0;
-  }
-  .navbar-nav.pull-right {
-    width: auto;
-  }
-  .navbar-toggle {
-    position: relative;
-    top: auto;
-    left: auto;
-    display: none;
-  }
-  .nav-collapse.collapse {
-    display: block !important;
-    height: auto !important;
-    padding-bottom: 0;
-    overflow: visible !important;
-  }
+.navbar-brand {
+  float: left;
+  margin-left: -15px;
+  margin-right: 5px;
+  max-width: none;
+}
+.navbar-nav {
+  float: left;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.navbar-nav > li {
+  float: left;
+}
+.navbar-nav > li > a {
+  border-radius: 0;
+}
+.navbar-nav.pull-right {
+  width: auto;
+}
+.navbar-toggle {
+  position: relative;
+  top: auto;
+  left: auto;
+  display: none;
+}
+.nav-collapse.collapse {
+  display: block !important;
+  height: auto !important;
+  padding-bottom: 0;
+  overflow: visible !important;
 }
 .navbar-btn {
   margin-top: 8px;
