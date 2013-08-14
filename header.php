@@ -24,7 +24,7 @@
               <?php
 
                 $pages = array(
-                  'Home'    => '',
+                  'Home'    => '/colormyi-v2',
                   'Store'   => 'store#!/~/product/category=0&id=9492999',
                   'Contact' => 'contact'
                 );
